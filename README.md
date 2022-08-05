@@ -2,6 +2,7 @@
 
 Blockchain-based Covid-19 Certification System  
 Project for Bachelor's Thesis
+
 Technologies used: ReactJS, NodeJS, ExpressJS, Web3JS, React Native (Expo), QR Codes, Blockchain, Solidity (Ethereum)
 
 The complete pubblication can be found [here](https://www.tesionline.it/default/tesi.asp?idt=57161&forceCom=y)
