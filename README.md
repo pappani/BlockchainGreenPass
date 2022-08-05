@@ -5,4 +5,4 @@ Project for Bachelor's Thesis
 
 Read summary.pdf for more info
 
-Thesis [here](https://www.tesionline.it/default/tesi.asp?idt=57161&forceCom=y)
+The complete pubblication can be found [here](https://www.tesionline.it/default/tesi.asp?idt=57161&forceCom=y)
